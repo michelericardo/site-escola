@@ -1,20 +1,14 @@
+<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
 
 <meta charset="UTF-8">
 
-http-equiv="X-UA-Compatible"
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta
-
-content="IE=edge">
-
-<meta
-
-name="viewport" initial- content="width=device-width,
-
-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Document</title>
 
@@ -22,55 +16,25 @@ scale=1.0">
 
 </head>
 
-<header class="cabecalho">
-
 <body>
 
-<img
+<header>
 
-class="cabecalho-imagem"
+<img src="alurastart logo.png" alt="logo alura">
 
-src="alurastart logo.png" alt="logo da alura start">
+<h1>Vai ser uma imagem aqui</h1>
 
-<ul class="cabecalho-lista">
+<ul>
 
-<li
+<li>Estudante</li>
 
-class="cabecalho-lista-
-
-item">Escola</li>
-
-<li item">Estudante</li>
-
-class="cabecalho-lista-
+<li>Escola</li>
 
 </ul>
 
 </header>
 
-<section class="escola">
-
-<div class="escola-div-conteudo">
-
-<h2 class="escola-titulo">Sobre a
-
-Escola</h2>
-
-<p class="escola-texto-um">A Escola
-
-Alura foi fundada em 2010 e tem como objetivo ensinar Pensamento Computacional, através do ensino de Programação.</p>
-
-<p class="escola-texto-dois">A turma mais estudiosa e famosa é a Segunda Série A. Nós somos super unidos e a turma favorita por todos os professores ajudam!</p> e professoras que nos
-
-</div>
-
-<img class="escola-imagem" src="Formula-
-
-bro.png" alt="Professora no quadro">
-
-</section>
-
 </body>
 
 </html>
-22:06
+22:21
